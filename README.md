@@ -275,3 +275,4 @@ Build scripts are placed in the `extra/` directory.
 
 If you want to build your own versioned packages, you can use the Vagrantfile provided in `extra/`.  Simply perform `vagrant up` and it will run all the necessary steps.
 
+test
